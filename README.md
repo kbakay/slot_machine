@@ -1,23 +1,31 @@
-Slot Machine Game
+SLOT MACHINE GAME 
+
 This is a simple command-line slot machine game implemented in Python. The game allows you to bet on lines, spin the slot machine, and check your winnings. You can quit the game at any stage by pressing q.
 
-Features:
+FEATURES
+
 Deposit Money: Start the game by depositing a certain amount.
+
 Choose Lines to Bet On: Bet on up to 3 lines.
+
 Spin the Slot Machine: Randomly generates symbols on a 3x3 grid.
+
 Check Winnings: Winnings are calculated based on the symbols and the bet amount.
+
 Quit Anytime: You can exit the game at any time by pressing q.
 
-How to Play
+HOW TO PLAY
 
 Clone the Repository:
+
 git clone https://github.com/kbakay/slot_machine.git
+
 cd slot_machine
 
 Run the Game: Execute the script using Python:
 python slot_machine.py
 
-Gameplay:
+GAMEPLAY
 
 The game will prompt you to deposit money.
 You can then choose the number of lines you want to bet on.
@@ -26,7 +34,7 @@ The slot machine will spin and display the outcome.
 Your balance will update based on the winnings.
 You can choose to continue playing or quit the game by pressing q.
 
-Example Output:
+EXAMPLE OUTPUT
 
 What would you like to deposit? $
 100
