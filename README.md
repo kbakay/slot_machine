@@ -28,14 +28,27 @@ You can choose to continue playing or quit the game by pressing q.
 
 Example Output:
 
-What would you like to deposit? $100
-Enter the number of lines to bet on (1-3)? 3
-What would you like to bet on each line? $10
+What would you like to deposit? $
+100
+
+Enter the number of lines to bet on (1-3)? 
+3
+
+What would you like to bet on each line? $
+10
+
 You are betting $10 on 3 lines. Total bet is equal to: $30
+
 A | B | D
+
 A | C | B
+
 A | D | A
+
 You won $50.
+
 You won on lines: 1
+
 Current balance is $120
+
 Press enter to play (q to quit).
